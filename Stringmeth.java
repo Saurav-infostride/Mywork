@@ -2,9 +2,9 @@ public class Stringmeth {
     public static void main(String [] args){
         String txt = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
         String abc = "programming";
-        StringBuilder def = new StringBuilder("JAVA");
-        def.append(abc);
-        System.out.println(def);
+        StringBuilder defg = new StringBuilder("JAVA");
+        defg.append(abc);
+        System.out.println(defg);
 //        String abc = "abcdefghijklmnopqrstuvwxyz";
 //        String def = "0123456789";
         String rev = " ";
